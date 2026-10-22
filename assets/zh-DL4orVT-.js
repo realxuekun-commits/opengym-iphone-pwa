@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-QTnfLwEv.js";var t=e({default:()=>n}),n={5965:`通过快速、轻盈的步伐训练敏捷性和协调性。`};export{t as n,n as t};
